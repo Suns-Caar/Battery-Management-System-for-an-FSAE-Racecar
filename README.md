@@ -1,4 +1,4 @@
-# Battery-Management-System-for-an-FSAE-Racecar
+# Real Time Battery-Management-System-for-an-FSAE-Racecar
 
 BMS is responsible for monitoring, controlling, and optimizing the performance, safety, and
 longevity of the Accumulator.
