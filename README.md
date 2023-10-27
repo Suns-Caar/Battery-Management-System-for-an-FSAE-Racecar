@@ -5,6 +5,7 @@ longevity of the Accumulator.
 The Design is based on Analog Devices's LTC Series LTC6813 Demo Boards(i.e DC2350B).
 LTC6813 - [https://www.analog.com/en/products/ltc6813-1.html](url)
 DC2350B- [https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/dc2350b.html](url)
+
 Tasks of AMS
 1. Establish SPI Communication with the IsoSPI-SPI Transciever and monitor the cell
 voltage from 107 cell taps from 6 LTC6813 slaves.
